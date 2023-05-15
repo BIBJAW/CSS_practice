@@ -1,0 +1,12 @@
+body{
+ font-size: 17px; 
+ font-family: Arial, Arial, Helvetica, sans-serif;
+ line-height: 1.5;
+ color: rgb(177, 0, 0);
+ background-color:papayawhip; 
+}
+
+p{
+  color: #333333;
+  font-weight:200;
+}
