@@ -1,0 +1,12 @@
+h1 {
+  border: 0.1em dashed brown;
+  width:fit-content;
+  font-size: 3rem;
+  padding: 0.2em;
+}
+
+p {
+  font-size:1rem; 
+  width: 40ch;
+  padding: .5em;
+}
